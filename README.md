@@ -7,5 +7,8 @@ FEATURES:
 - Microsoft 3D Pinball
 - Must I say more?
 
-TODO
+TODO:
 - [ ] More Easy Pete!
+
+LATEST:
+- Death is now narrated by Easy Pete
